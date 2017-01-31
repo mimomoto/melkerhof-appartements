@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		
+		<script type="text/javascript" src=" https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.js"></script>
+		<script type="text/javascript" src="../../lib/jquery.jcarousel.min.js"></script>
+        <script type="text/javascript" src="../../lib/jquery.pikachoose.full.js"></script>
+		<script language="javascript">
+			$(document).ready(
+				function (){
+					$("#impressionen").PikaChoose({
+
+						thumbChangeEvent:'mouseover.pikachoose',
+						carousel:true, 
+						carouselVertical:true
+					});
+				});
+		</script>
+
+		
+</head>
+<body>
+<!-- not really needed, i'm using it to center the gallery. -->
+<div class="pikachoose">
+Basic example - without carousel
+	<ul id="impressionen">
+		<li><img src="../../1.jpg"/></a></li>
+		<li><img src="../../2.jpg"/></a></li>
+		<li><img src="../../3.jpg"/></a></li>
+	</ul>
+</div>
+
+</body>
+</html>

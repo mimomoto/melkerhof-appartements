@@ -1,0 +1,33 @@
+#c_impressionen .pikachoose {width: 700px; margin: 0 auto;}
+#c_impressionen .pika-thumbs{ height: 75px; margin-top:20px;}
+
+#c_impressionen .pika-thumbs li{ width: 70px; height:74px; padding: 0; overflow: hidden; float: left; list-style-type: none; cursor: pointer; }
+#c_impressionen .pika-thumbs li:last {margin: 0;}
+#c_impressionen .pika-thumbs li .clip {position:relative;height:100%;text-align: center; vertical-align: center; overflow: hidden;}
+
+#c_impressionen .pika-stage, .pika-textnav {width: 500px;}
+#c_impressionen .pika-stage {position: relative;  text-align:center; height:350px;}
+#c_impressionen .pika-stage img{height:100%;}
+
+#c_impressionen .pika-imgnav a { display:none; }
+#c_impressionen .pika-textnav { display:none; }
+#c_impressionen .pika-tooltip{ display:none;}
+#c_impressionen .pika-counter{ display:none; }
+#c_impressionen .pika-loader { background:url(loading.gif) 3px 3px no-repeat #000; background-color:rgba(0,0,0,0.9); color:white; width:60px; font-size:11px; padding:5px 3px; text-align:right; position:absolute; top:15px; right:15px; }
+
+
+#c_appartement_slides .pikachoose {width: 218px; margin: 0 auto;}
+#c_appartement_slides .pika-thumbs{ height: 75px; margin-top:6px;}
+#c_appartement_slides .pika-thumbs li{ width: 72px; height:32px; padding: 0; overflow: hidden; float: left; list-style-type: none; cursor: pointer;}
+#c_appartement_slides .pika-thumbs li:last {margin: 0;}
+#c_appartement_slides .pika-thumbs li .clip {position:relative;height:100%;text-align: center; vertical-align: center; overflow: hidden;}
+		
+#c_appartement_slides .pika-stage, .pika-textnav {width: 218px;}
+#c_appartement_slides .pika-stage {position: relative;  text-align:center; height:109px;}
+#c_appartement_slides .pika-stage img{height:100%;}
+
+#c_appartement_slides .pika-imgnav a { display:none; }
+#c_appartement_slides .pika-textnav { display:none; }
+#c_appartement_slides .pika-tooltip{ display:none;}
+#c_appartement_slides .pika-counter{ display:none; }
+#c_appartement_slides .pika-loader{ background:url(loading.gif) 3px 3px no-repeat #000; background-color:rgba(0,0,0,0.9); color:white; width:60px; font-size:11px; padding:5px 3px; text-align:right; position:absolute; top:15px; right:15px; }

@@ -1,0 +1,204 @@
+html, body, p {
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Work Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 2em;
+}
+
+.logo {
+  font-size: 2.6em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  position: relative;
+  top: 20px;
+  left: 250px;
+  text-align: left;
+}
+
+.tagline {
+  float:right;
+  font-size: 1.6em;
+  line-height: 1.5;
+  margin-right: 28px;
+  position: relative;
+  top: -50px;
+  text-align: right;
+}
+
+.language {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+}
+
+.language a {
+  color: inherit;
+}
+
+.hd {
+	display: none;
+}
+
+.fullwidth {
+	width:100%;
+}
+
+
+@media only screen and (max-width: 479px) {
+  .screen-center, .screen-right {
+    text-align: left;
+  }
+
+}
+
+.screen-center {
+  text-align:center;
+}
+.screen-right {
+  text-align: right;
+}
+
+#header {
+  background-image:url(../images/melkerhof-appartements-logo.png);
+  background-size: 140px;
+  background-repeat:no-repeat;
+  border-bottom: 1px solid #0071BC;
+  height:118px;
+  width: 100%;
+  margin-top:60px;
+  margin-bottom:20px;
+}
+
+footer {
+  margin-top: 40px;
+  line-height:30px;
+  font-size:12px;
+  color:#888;
+}
+
+.hidetext {
+  text-indent:-9000px;
+}
+
+.buttonsize {
+  width: 162px;
+  height: 30px;
+}
+sup {
+  vertical-align: baseline;
+  font-size: 10px;
+  position: relative;
+  top: -4px;
+}
+#nav li {
+  list-style: none;
+  display: block;
+  font-family: 'Work Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 162px;
+  height: 30px;
+  margin: 7px;
+  background-repeat: no-repeat;
+}
+
+#nav a {
+  color: white;
+  font-size: 20px;
+  display: block;
+  height: 30px;
+}
+
+.italic {
+  font-style: italic;
+}
+#willkommen {
+  width: 581px;
+  height: 32px;
+  background: url(../images/willkommen.png);
+  text-indent: -9000px;
+  margin: 40px auto 30px auto;
+}
+
+
+#preise {
+  width: 100%;
+  text-align: center;
+  line-height: 40px;
+}
+#preise td {
+  padding: 10px;
+  vertical-align: middle;
+}
+#preise .season-header {
+  padding-bottom: -10px;
+  color: #888;
+}
+#preise .season {
+  line-height: 16px;
+}
+#preise .euro {
+  color: #0071BC;
+  font-size: 18px;
+  margin-right: 2px;
+}
+
+
+.klass {
+  font-size: 12px;
+  color: #3695d4;
+}
+
+.longer {
+  margin-bottom: 20px !important;
+}
+
+#nav .klass {
+  text-indent: 0;
+  text-align: right;
+  width: 95%;
+  display: block;
+  margin-top: 3px;
+}
+
+#preise .rate {
+  font-size: 24px;
+  font-weight: 100;
+}
+#preise .spanheader {
+  width: 162px;
+  height: 30px;
+  text-indent: -9000px;
+  margin: 0 auto 0 auto;
+}
+#preise .header_a {
+  background: url(../images/nav.png) -4px -32px;
+}
+#preise .header_b {
+  background: url(../images/nav.png) -4px -64px;
+}
+#preise .pspacing {
+  line-height: 20px;
+}
+.dark {
+  color: #888;
+}
+.left {
+  text-align: left;
+}
+#plan {
+  width: 600px;
+}
+ul.list {
+  list-style: circle;
+  margin-left: 40px;
+}
+.push {
+  height: 20px;
+  min-height: 20px;
+}
