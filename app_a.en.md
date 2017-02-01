@@ -5,7 +5,7 @@ layout: en
 <div class="row">
 	<div class="seven columns">
 		<h1>Apartment A</h1>
-		<p class="dark">2<sup>nd</sup> floor, 80 m<sup>2</sup>, up to 3 people</p>
+		<p class="dark">2<sup>nd</sup> floor / 80 m<sup>2</sup> / up to 3 people</p>
 
 		<p>You’ll be able to enjoy total peace and quiet in this spacious apartment. A modern, fully equipped Miele kitchen opens out into the living area. The bedroom is separated from the living area and has a comfortable double bed.</p>
 
