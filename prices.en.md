@@ -48,7 +48,7 @@ layout: en
 
   <tr>
     <td colspan='2'><a href='app_a.en.html'>Apartment A &gt;</a></td>
-    <td><a href='enquiry.en.html'>Enquiry &gt;</a></td>
+    <td><a href='enquire.en.html'>Enquiry &gt;</a></td>
     <td colspan='2'><a href='app_b.en.html'>Apartment B &gt;</a></td>
   </tr>
 
