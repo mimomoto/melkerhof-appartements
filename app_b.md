@@ -81,6 +81,7 @@ layout: default
 			<li>2 Tagesbetten (jeweils 90x200cm)</li>
 			<li>gem&uuml;tliche Sitzecke</li>
 			<li>Regal</li>
+			<li>Musikanlage</li>
 			<li>Highspeed WLAN Internet</li>
 		</ul>
 	</p>

@@ -50,7 +50,7 @@ layout: en
 		<h2>By car</h2>
 
 		<strong>Westautobahn motorway</strong> towards the city centre – Ringstraße as far as the University, turn left onto Schreyvogelgasse.<br><br>
-		<strong>Südautobahn motorway</strong>towards the city centre – Ringstraße as far as the University, turn left onto Schreyvogelgasse.<br><br>
+		<strong>Südautobahn motorway</strong> towards the city centre – Ringstraße as far as the University, turn left onto Schreyvogelgasse.<br><br>
 
 		<p>
 		- <a href="http://www.parken.at/garage/9/garage-freyung">Underground parking near Freyung</a><br>

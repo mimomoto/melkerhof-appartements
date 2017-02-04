@@ -64,7 +64,7 @@ layout: en
 
 		<p id="m3"><strong>Bathroom</strong>
 			<ul class="list">
-				<li>small bath tub</li>
+				<li>Small bath tub</li>
 				<li>Shower</li>
 				<li>Washing machine</li>
 				<li>Hand towels</li>

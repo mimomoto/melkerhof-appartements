@@ -62,7 +62,7 @@ layout: en
 	</p>
 	<p id="m3"><strong>Bathroom</strong>
 		<ul class="list">
-			<li>bath tub</li>
+			<li>Bath tub</li>
 			<li>Hand towels</li>
 			<li>Hairdryer</li>
 		</ul>
@@ -79,6 +79,7 @@ layout: en
 			<li>2 day beds (90x200cm each)</li>
 			<li>Cosy corner seating area</li>
 			<li>Shelves</li>
+			<li>Stereo equipment</li>
 			<li>High-speed WiFi internet</li>
 		</ul>
 	</p>
