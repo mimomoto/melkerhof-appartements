@@ -12,7 +12,7 @@ layout: default
 		Wohnung ein besonderes Flair. Das separate Esszimmer erm&ouml;glicht auch eine
 		bequeme Nutzung für Familien bis 4 Personen.</p>
 
-		<p>WLAN und Kabel-TV sowie eine Nespresso Kaffee Maschine stehen Ihnen zur Verf&uuml;gung.</p>
+		<p>WLAN, Kabel-TV, eine Musikanlage, sowie eine Nespresso Kaffee Maschine stehen Ihnen zur Verf&uuml;gung.</p>
 
 		<p>Gegen eine Geb&uuml;hr k&ouml;nnen Sie die Waschmaschine im Erdgescho&szlig; ben&uuml;tzen.</p>
 

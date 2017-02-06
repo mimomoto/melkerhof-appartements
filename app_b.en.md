@@ -9,7 +9,7 @@ layout: en
 
 		<p>In this spacious apartment designed in the style of a country home, you’ll be able to enjoy total peace and quiet. Warm colours give this spacious apartment a special flair. The separate dining room can be comfortably used by a family of up to 4 people.</p>
 
-		<p>WiFi, cable TV and a Nespresso coffee machine are also available for you to use.</p>
+		<p>WiFi, cable TV, a sound system, and a Nespresso coffee machine are also available for you to use.</p>
 
 		<p>For a fee, you can use the washing machine on the ground floor.</p>
 
